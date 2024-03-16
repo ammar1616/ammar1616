@@ -17,15 +17,6 @@ I'm a passionate software engineer with expertise in building robust back-end sy
 - **DevOps**: Docker, AWS, Heroku
 - **Software Engineering**: Agile Methodologies, Test-Driven Development (TDD), Continuous Integration/Continuous Deployment (CI/CD)
 
-## 💬 Ask me about
-
-- Strategies for solving complex algorithmic problems efficiently
-- Data structures and algorithms for effective problem-solving
-- Analytical thinking and problem-solving methodologies
-- Competitive programming techniques and contest strategies
-- Approaches for optimizing code performance and readability
-- My expertise as a proficient problem solver and competitive programmer
-
 ## 🎵 Spotify status
 
 <a href="https://open.spotify.com/track/1yS8J9iYUVXBs2k7HH8LBd?opened">
